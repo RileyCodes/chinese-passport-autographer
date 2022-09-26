@@ -7,7 +7,8 @@ chinese-passport-autographer helps by to get Chinese name drawn in the perfect r
 
 This is a personal project, there are no warranties. USE AT YOUR OWN RISK.
 
-#How to use.
+# How to use.
+
 You will need an Android phone, and a Windows computer with NodeJS.
 
 Pair your windows and android phone via Link to Windows, complete your passport application until the signature window appears.
