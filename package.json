@@ -1,7 +1,7 @@
 {
   "name": "chinese-passport-autographer",
   "version": "1.0.0",
-  "description": "",
+  "description": "An autographer for Chinese passport",
   "main": "chinese-passport-autographer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
     "passport"
   ],
   "author": "RileyCpp",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RileyCodes/chinese-passport-autographer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RileyCodes/chinese-passport-autographer/issues"
+  },
+  "homepage": "https://github.com/RileyCodes/chinese-passport-autographer#readme"
 }
