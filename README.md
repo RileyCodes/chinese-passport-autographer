@@ -22,4 +22,5 @@ run `node chinese-passport-autographer.js` and follow the prompts from there.
 ![image](https://user-images.githubusercontent.com/35380563/192199138-4c70636f-e24b-44e7-8f8a-b64e09cb798e.png)
 
 
-[![Watch the video](https://img.youtube.com/vi/-H3h913BeDU/maxresdefault.jpg)]([https://www.youtube.com/watch?v=-H3h913BeDU)
+https://user-images.githubusercontent.com/35380563/192199791-dc31078c-b566-4917-8266-b1fee969fb75.mp4
+
